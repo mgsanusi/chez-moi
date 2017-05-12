@@ -25,6 +25,4 @@ weight = 1
 
 +++
 
-# Biography
-
-Coming soon!
+Hi, I'm Marina--a rising 4th-year student studying Computer Science at the University of Virginia. I work as a Teaching Assistant and Research Assistant, and I plan on applying to CS PhD programs in the fall of 2017. Feel free to take a look around, or you're welcome to get in touch with me!

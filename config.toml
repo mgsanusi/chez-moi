@@ -20,13 +20,17 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Marina Sanusi"
-  role = "Computer Science Student"
-  organization = "University of Virginia"
+  role = ""
+  organization = ""
   organization_url = ""
-  avatar = "portrait.jpg"
+  avatar = "head.jpg"
   email = "marina@virginia.edu"
   phone = "434 466 6998"
   telegram = ""
+  fontbody = "Raleway"
+
+  fontheading = "Raleway"
+  fonttitle = "Raleway"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -120,14 +124,29 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "mailto:mgs9y@virginia.edu"
+    link = "https://www.linkedin.com/in/marina-sanusi-37bb4513b/"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/mgsanusi"
+
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fa"
+    link = "https://www.instagram.com/marina_sanusi/"
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:mgs9y@virginia.edu"
+
+  [[params.social]]
+    icon = "facebook"
+    icon_pack = "fa"
+    link = "https://www.facebook.com/marina.sanusi"
 
 
 # Navigation Links
@@ -142,28 +161,23 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "About Me"
-  url = "#aboutme"
+  url = "about"
   weight = 2
 
 [[menu.main]]
   name = "Research"
-  url = "#research"
+  url = "research"
   weight = 3
 
 [[menu.main]]
   name = "Teaching"
-  url = "#teaching"
+  url = "teaching"
   weight = 4
 
 [[menu.main]]
   name = "Courses"
-  url = "#courses"
+  url = "courses"
   weight = 5
-
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
 
 # Taxonomies.
 [taxonomies]
