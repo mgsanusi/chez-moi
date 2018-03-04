@@ -129,11 +129,6 @@ defaultContentLanguageInSubdir = false
     link = "https://www.linkedin.com/in/marina-sanusi-37bb4513b/"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/mgsanusi"
-
-  [[params.social]]
     icon = "instagram"
     icon_pack = "fa"
     link = "https://www.instagram.com/marina_sanusi/"
