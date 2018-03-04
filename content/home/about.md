@@ -25,7 +25,7 @@ weight = 1
 
 +++
 
-Hi, I'm Marina--a 4th-year student pursuing a Bachelor's of Science in Computer Science at the University of Virginia. I work as a Teaching Assistant and Research Assistant, and I'm currently looking for a full-time job in software engineering, data analysis, or consulting. More information on my research interests, projects, teaching experience, and random things about me can be found on the other pages of this site! Feel free to take a look around, but this site is a work in progress, so don't look too closely yet :P 
+Hi, I'm Marina--a rising 4th-year student pursuing a Bachelor's of Science in Computer Science at the University of Virginia. I work as a Teaching Assistant and Research Assistant, and I plan on applying to CS PhD programs in the fall of 2017. More information on my research interests, projects, teaching experience, and random things about me can be found on the other pages of this site! Feel free to take a look around, but this site is a work in progress, so don't look too closely yet :P 
 
 Feel free to get in touch with me at **marina@virginia.edu** or **434 466 6998**.
 
